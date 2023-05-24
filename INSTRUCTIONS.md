@@ -19,7 +19,7 @@ In order to run our chatbot, the user must ensure of the following;
 The user must also make sure that in their command line, they run the following commands to download the neccesary packages to run the chatbot.
 
   ```bash
-    $ pip install customkinter
+    $ pip install customtkinter
   ```
 & 
 
