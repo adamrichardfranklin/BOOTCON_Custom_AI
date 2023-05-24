@@ -2,6 +2,8 @@
 
 The objective of this project was to create a custom GUI chatbot that integrates with OpenAI to automate script writing. The chatbot was developed using Python and run in a local virtual Python environment. The chat interface was designed using the Sublime Text Editor and Tkinter.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Introduction
 This whitepaper provides a detailed overview of a project that aimed to develop a custom GUI chatbot, which integrated with OpenAI to automate script writing. The document outlines the project's objectives, roles and responsibilities of the team members, and the timeline for project completion.
 
