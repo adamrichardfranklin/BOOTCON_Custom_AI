@@ -1,7 +1,7 @@
 # INSTRUCTIONS.md
 
 
-In order to run our chatbot, the user must ensure of the following;
+In order to run our chatbot, the user must ensure of the following; (These instructions are for Gitbash on Windows)
 
 1: The user has the latest version of Python installed on their machine. (https://www.python.org/downloads/)
 
