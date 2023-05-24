@@ -1,6 +1,8 @@
-# BOOTCON_Custom_AI
+# BOOTCON_Custom_AI (chat.py)
 
-The objective of this project was to create a custom GUI chatbot that integrates with OpenAI to automate script writing. The chatbot was developed using Python and run in a local virtual Python environment. The chat interface was designed using the Sublime Text Editor and Tkinter.
+The objective of this project was to create a custom GUI chatbot that integrates with OpenAI to automate script writing. The chatbot was developed using Python and run in a local virtual Python environment. The chat interface was designed using the Sublime Text Editor and Tkinter. The chatbot used OpenAI's API key to generate scripts based on user input. These scripts will be used to automate tasks such as file transfers, backups, and data analysis. The chatbot will be able to save these scripts and generate cronjobs to schedule their execution. 
+
+Because our chatbot is hosted in a local python environment an intruder on our machine will be unable to see any sensitive information we may have input to our chatbot through our web history. Without our private API key our information is secure from those same attackers as well due to the nature of the encrpytion for these API keys.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
