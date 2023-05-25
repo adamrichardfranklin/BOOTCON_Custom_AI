@@ -6,10 +6,10 @@ Because our chatbot is hosted in a local python environment an intruder on our m
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction
+# Introduction
 This whitepaper provides a detailed overview of a project that aimed to develop a custom GUI chatbot, which integrated with OpenAI to automate script writing. The document outlines the project's objectives, roles and responsibilities of the team members, and the timeline for project completion.
 
-Project Overview
+# Project Overview
 The objective of the project was to create a custom GUI chatbot using Python that interacted with users and generated scripts based on their input. The chatbot leveraged OpenAI's API key to generate scripts for automating tasks such as file transfers, backups, and data analysis. These scripts were saved and could be scheduled for execution using cronjobs.
 
 2.1 Technology Stack
