@@ -4,6 +4,8 @@ The objective of this project was to create a custom GUI chatbot that integrates
 
 Because our chatbot is hosted in a local python environment an intruder on our machine will be unable to see any sensitive information we may have input to our chatbot through our web history. Without our private API key our information is secure from those same attackers as well due to the nature of the encrpytion for these API keys.
 
+This tool IS NOT meant to be a singular solution to all Cybersecurity woes a professional may face. Rather this tool is meant to act as an assiting aid and a first step in a series of procedures that a Cybersecurity professional would use in their day to day life.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Introduction
